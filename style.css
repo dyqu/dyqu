@@ -2,16 +2,14 @@ body {
     font-size: 30px;
     text-align: center;
     font-family: Impact, Charcoal, sans-serif;
+    background: url("http://www.dai4films.com/blog/wp-content/uploads/2012/05/dai4sky3.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     width: 100%;
 }
 
-html { 
-	background: url("http://www.dai4films.com/blog/wp-content/uploads/2012/05/dai4sky3.jpg") no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
