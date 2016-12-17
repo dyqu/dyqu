@@ -10,5 +10,10 @@ body {
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     width: 100%;
-    height: 500px;
+    height: 650px;
+}
+
+h1 {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 100px;
 }
