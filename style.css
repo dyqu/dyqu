@@ -29,7 +29,7 @@ h3 {
     padding-bottom: 30px;
 }
 
-.carousel-inner-1 > .item > img, .carousel-inner-1 > .item > a > img {
+#one > .item > img, #one > .item > a > img {
     width: 400px;
     height: 300px;
 }
