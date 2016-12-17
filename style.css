@@ -29,7 +29,7 @@ h3 {
 }
 
 
-#one {
+#one .carousel-inner{
     width: 400px;
     height: 300px;
 }
