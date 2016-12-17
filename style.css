@@ -14,11 +14,23 @@ body {
     height: 700px;
 }
 
+h1{
+    font-size: 100px;
+}
+
 h3 {
     font-size: 40px;
 }
 
-#cent {
+#one {
+    height: 200px;
+    width: 400px;
+    top: 30%;
+    left: 50%;
+}
+#two {
     height:200px;
     width:400px;
+    top 60%;
+    left: 50%;
 }
