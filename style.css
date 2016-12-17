@@ -11,6 +11,7 @@ body {
 
 
 .carousel {
+  padding-bottom: 60px;
   max-height: 700px;
   overflow: hidden;
 
@@ -27,8 +28,10 @@ h3 {
     font-size: 40px;
 }
 
-.carousel {
-    padding-bottom: 60px;
+
+#one {
+    width: 400px;
+    height: 300px;
 }
 .container {
     padding-bottom: 30px;
