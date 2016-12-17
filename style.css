@@ -35,7 +35,7 @@ col-sm-6 {
     width: 400px;
     height: 300px;
 }
-#myCarousel-3 .carousel img {
+#myCarousel-3 .carousel-inner > item > img {
   position: absolute;
   top: 0;
   left: 0;
