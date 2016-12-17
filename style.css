@@ -37,6 +37,9 @@ col-sm-6 {
 }
 #myCarousel-3 {
     height: 700px;
+    .carousel > img, .carousel > img > a{
+        height: 700px;
+    }
 }
 .container {
     padding-bottom: 30px;
