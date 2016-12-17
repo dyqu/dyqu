@@ -33,10 +33,12 @@ h3 {
     width: 400px;
     height: 300px;
 }
+#myCarousel-3 {
+    height: 700px;
+}
 .container {
     padding-bottom: 30px;
 }
-
 
 .left1{
     width:48%;
