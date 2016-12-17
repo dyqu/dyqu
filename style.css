@@ -13,10 +13,6 @@ body {
   padding-bottom: 60px;
   max-height: 600px;
   overflow: hidden;
-
-  .item img {
-    width: 100%;
-    height: auto;
   }
 }
 h1{
@@ -44,10 +40,5 @@ col-sm-6 {
     padding-bottom: 30px;
 }
 
-.left1{
-    width:48%;
-    float:left;
-    height:100%;
-  }
 
 
