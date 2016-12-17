@@ -23,14 +23,16 @@ h3 {
 }
 
 #one {
+    position: relative;
     height: 200px;
     width: 800px;
-    top: 30%;
+    top: 80px;
     left: 50%;
 }
 #two {
+    position: relative;
     height:200px;
     width:400px;
-    top 60%;
+    top 100px;
     left: 50%;
 }
