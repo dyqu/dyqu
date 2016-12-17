@@ -22,11 +22,11 @@ h3 {
     font-size: 40px;
 }
 
-.top {
+carousel {
+    padding-bottom: 60px;
 }
-.bottom {
-    position: relative;
-    height: 700px;
+container {
+    padding-bottom: 30px;
 }
 
 #one {
