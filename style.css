@@ -22,6 +22,12 @@ h3 {
     font-size: 40px;
 }
 
+.top {
+}
+.bottom {
+    position: relative
+}
+
 #one {
     position: relative;
     height: 200px;
