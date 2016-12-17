@@ -9,7 +9,6 @@ body {
     background-size: cover;
 }
 
-
 .carousel {
   padding-bottom: 60px;
   max-height: 600px;
@@ -28,6 +27,9 @@ h3 {
     font-size: 40px;
 }
 
+col-sm-6 {
+    max-height: 900px;
+}
 
 #one .carousel-inner{
     width: 400px;
